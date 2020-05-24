@@ -10,12 +10,10 @@ from PySide2.QtCore import *
 from PySide2.QtGui import *
 from PySide2.QtWidgets import *
 
-# import matplotlib.pyplot as plt
 from matplotlib.backends.backend_qt5agg import (FigureCanvasQTAgg as FigureCanvas,
                                                 NavigationToolbar2QT as NavigationToolbar)
 from matplotlib.figure import Figure
 
-# from Plots.QT_Plots import ui_QT_Graph02
 import ui_QT_Graph02
 
 #----------------- Main-------------------------
