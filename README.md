@@ -13,7 +13,7 @@
 Project created while learning PySide2. A simple application that allows you to draw charts using Python syntax and error handling.
 
 ## Screenshots
-![Main Page](./img/plot_app.JPG)
+![Main Page](./img/plot_app.jpg)
 
 ## Technologies
 * Python 3
