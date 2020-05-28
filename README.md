@@ -10,7 +10,7 @@
 * [Contact](#contact)
 
 ## General info
-Project created while learning PySide2. A simple application that allows you to draw charts using Python syntax and error handling.
+Project created while learning PySide2. A simple application that allows you to draw charts using Python syntax with error handling.
 
 ## Screenshots
 ![Main Page](./img/plot_app.jpg)
